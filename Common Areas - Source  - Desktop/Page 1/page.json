@@ -1,0 +1,165 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "do_objectID": "0EC89917-F949-4461-A7B3-32A5201FD2A2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      7792
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "7CB250DE-6CB8-459B-B512-A4225571B4A0"
+    },
+    {
+      "class": "artboard",
+      "id": "E200DEFF-68BA-4484-9118-B4B199DCCF20"
+    },
+    {
+      "class": "artboard",
+      "id": "BA26CB9C-0C3B-4189-9B5F-9DAB9719D3B4"
+    },
+    {
+      "class": "artboard",
+      "id": "93CBBD13-1945-4EF0-9105-293D6A7F9576"
+    },
+    {
+      "class": "artboard",
+      "id": "79F98088-0094-4168-875B-F2D96C9AA421"
+    },
+    {
+      "class": "artboard",
+      "id": "5D17F0D5-4B06-41F2-A836-E3B7F416A3DE"
+    },
+    {
+      "class": "artboard",
+      "id": "1B3A627F-7CCA-494C-BBF1-A143E4FAD280"
+    },
+    {
+      "class": "artboard",
+      "id": "56B6BEA5-11D9-4D01-9C5F-9CF8955A226B"
+    },
+    {
+      "class": "artboard",
+      "id": "9CDAAB34-C0A9-4CE5-9872-AF09E8D3E71A"
+    },
+    {
+      "class": "artboard",
+      "id": "1702C678-1463-4412-8A5B-B36ACAC1F1C2"
+    },
+    {
+      "class": "artboard",
+      "id": "4936C147-143C-4D2A-BDEF-8491A90BCC8F"
+    },
+    {
+      "class": "artboard",
+      "id": "84442991-3A01-4191-A8E9-F72F26E9116D"
+    },
+    {
+      "class": "artboard",
+      "id": "1FC5BAEE-C7A6-4019-9054-805FC068A7AC"
+    },
+    {
+      "class": "artboard",
+      "id": "4B373994-8E3D-49E3-952A-382A9AA87D63"
+    },
+    {
+      "class": "artboard",
+      "id": "53BB0802-8805-4A6B-AB14-EAB72E332B80"
+    },
+    {
+      "class": "artboard",
+      "id": "89A9DF35-1983-4186-BF27-516669FF8FCB"
+    },
+    {
+      "class": "artboard",
+      "id": "D4E837C1-E62B-4AFF-9D21-370B18C019BA"
+    },
+    {
+      "class": "text",
+      "id": "3CEAAD34-C8BF-4929-BAFD-81B584F7D2CC"
+    },
+    {
+      "class": "text",
+      "id": "284AF906-55B8-4CB3-BC7F-4CD12A624F49"
+    },
+    {
+      "class": "text",
+      "id": "9F2105BD-5529-4B79-B65B-27C768AD28D6"
+    },
+    {
+      "class": "text",
+      "id": "8B47C534-5C31-4BE0-8811-159D04AD6099"
+    },
+    {
+      "class": "text",
+      "id": "562CEF22-C059-4F20-8A81-FF8E6620CF22"
+    },
+    {
+      "class": "artboard",
+      "id": "AB7BF438-3408-4541-8CC3-E18334D3C07C"
+    },
+    {
+      "class": "artboard",
+      "id": "4D589DAC-17E5-4ACC-AD22-BAEA6DB476B2"
+    },
+    {
+      "class": "artboard",
+      "id": "C070A2CD-4F1C-4A61-8E61-CC4B75148D95"
+    }
+  ],
+  "name": "Page 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 0,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.betterthantomorrow.sketch.distributor": {
+      "distributorCenterSpacing": 0,
+      "distributorDimension": 1,
+      "distributorSpacing": "0"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

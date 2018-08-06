@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "10C77F6C-BA6B-4F69-91AA-62AE91C9432B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "02B24381-B4BB-4E8D-B99B-47A3B821FD2C",
+    "height": 600,
+    "width": 400,
+    "x": 0,
+    "y": 104
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "m- / Content type / Contacts",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F22CB10C-3C55-44A9-ABAB-24AC28999877",
+      "overrideName": "FC02B6B9-4CE3-4F5C-8B9B-0B06DC42F0EE_symbolID",
+      "value": "0524E5B9-5B1C-4064-8F9C-95781F7B1A85"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "49FFCA89-28D7-40FF-946E-3D63A64A6F9F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DC76EBBB-33D5-4B06-8D16-BE9DF540B76A",
+  "verticalSpacing": 0
+}

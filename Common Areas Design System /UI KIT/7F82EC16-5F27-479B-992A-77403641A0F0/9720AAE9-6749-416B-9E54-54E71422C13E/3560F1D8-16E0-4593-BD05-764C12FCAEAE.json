@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "3560F1D8-16E0-4593-BD05-764C12FCAEAE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 65,
+    "width": 256,
+    "x": 0,
+    "y": 130
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "bot",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "8645A739-851E-4D57-8B0A-7C77BFE8E525/11A73CCF-1623-4314-B646-8E185CC3524D_symbolID",
+      "value": "022C6490-34F3-42FD-BB08-796A5320349F"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1C700D06-148E-4481-ACBF-A2E027D0C8E4_symbolID",
+      "value": "A9647C25-C6CA-4E4E-A488-9675B63CD1E2"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8645A739-851E-4D57-8B0A-7C77BFE8E525_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D4376C45-5051-46A1-B8C5-36AAAC2B64E9_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8645A739-851E-4D57-8B0A-7C77BFE8E525/6F726A91-2FCB-44DA-BD54-4539D2527777_symbolID",
+      "value": "CD496401-E2F3-4E05-BB8B-0886D6956E2A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8645A739-851E-4D57-8B0A-7C77BFE8E525/6F726A91-2FCB-44DA-BD54-4539D2527777/79762A5D-C30F-4176-81E5-B4EE1C00D791_symbolID",
+      "value": "90C77B5F-A4A7-4E35-B4CA-2B04A103B9F6"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1C700D06-148E-4481-ACBF-A2E027D0C8E4/A2FD8996-9ECF-4E6B-8FBE-A43050420B6E_stringValue",
+      "value": "Contacts"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1C700D06-148E-4481-ACBF-A2E027D0C8E4/56D7475F-680B-4267-B229-E3A7B78C3CB2_symbolID",
+      "value": "CD496401-E2F3-4E05-BB8B-0886D6956E2A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1C700D06-148E-4481-ACBF-A2E027D0C8E4/56D7475F-680B-4267-B229-E3A7B78C3CB2/DCAE4229-C8A1-4732-AF3B-A00228A4F3E7_symbolID",
+      "value": "F8B5E2EB-44C8-42DB-BF97-ED211C82FF4F"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "74721DD0-9EAA-4E5C-BEB1-E9D2A300597F",
+  "verticalSpacing": 0
+}

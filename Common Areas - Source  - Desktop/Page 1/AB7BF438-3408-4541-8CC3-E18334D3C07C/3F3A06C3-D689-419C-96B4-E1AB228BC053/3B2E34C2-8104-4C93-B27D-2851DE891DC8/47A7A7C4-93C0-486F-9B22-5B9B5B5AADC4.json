@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "47A7A7C4-93C0-486F-9B22-5B9B5B5AADC4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "359104B1-4028-47CC-A9C3-7D3F8088B984",
+    "height": 60,
+    "width": 400,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "a- / action Item / active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1B92C8C8-D596-4103-98C0-BC27BFC2B489_stringValue",
+      "value": "Address"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "15CD222B-E980-4319-9017-D0C64FD23D0E_stringValue",
+      "value": "Stage: Complete"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "87ECEF93-4284-4CAD-8F2E-7AC527E4E952_stringValue",
+      "value": "Highlighted action Item"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "24613160-1877-4932-B541-CD8F0BDE1408",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0B943E31-AB0C-4D19-AB04-25F9632A61B3",
+  "verticalSpacing": 0
+}

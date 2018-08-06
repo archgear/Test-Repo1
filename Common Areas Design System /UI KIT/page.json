@@ -1,0 +1,80 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "do_objectID": "DA89C767-585A-41AD-907D-43EEF100FB7C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -615,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "9BFED93E-23BC-4896-BB50-E4209DF1A578"
+    },
+    {
+      "class": "artboard",
+      "id": "7F82EC16-5F27-479B-992A-77403641A0F0"
+    },
+    {
+      "class": "artboard",
+      "id": "FCDD5DBD-0611-4661-B8AB-5058450C9746"
+    },
+    {
+      "class": "artboard",
+      "id": "005125D0-BBB6-4A4D-AA87-EF07CE68C005"
+    }
+  ],
+  "name": "UI KIT",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.betterthantomorrow.sketch.distributor": {
+      "distributorCenterSpacing": 0,
+      "distributorDimension": 0,
+      "distributorSpacing": "64"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -550,
+    "guides": [
+    ]
+  }
+}

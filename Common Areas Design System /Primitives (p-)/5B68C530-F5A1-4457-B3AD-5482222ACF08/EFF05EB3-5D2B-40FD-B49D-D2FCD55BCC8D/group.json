@@ -1,0 +1,94 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "EFF05EB3-5D2B-40FD-B49D-D2FCD55BCC8D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1C5CCD12-7071-489A-A072-63F23DFC203D",
+    "height": 665,
+    "width": 439,
+    "x": 48,
+    "y": 145
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3F5223E4-4B67-4C4C-84BF-9887387077F4"
+    },
+    {
+      "class": "text",
+      "id": "79B847EB-97F3-4832-B21D-853948F77541"
+    },
+    {
+      "class": "text",
+      "id": "43B182DF-C08C-4D1B-94E6-827BD4D4FA58"
+    },
+    {
+      "class": "text",
+      "id": "BE836D03-D634-45C2-95D8-DF2F2E3924AC"
+    },
+    {
+      "class": "text",
+      "id": "AFECC4D5-D4A2-43D9-B7FD-DE6E763F7704"
+    },
+    {
+      "class": "text",
+      "id": "3DD37D1C-BC9A-427D-902D-60DD0148C2FD"
+    },
+    {
+      "class": "text",
+      "id": "E5235027-7959-4FF6-AD1A-97D589815A26"
+    },
+    {
+      "class": "text",
+      "id": "16777780-7E62-48DB-9E5F-D9E43FB2F4E7"
+    },
+    {
+      "class": "text",
+      "id": "7C2E51D5-EE3E-4B4D-848C-29A4C0EA8B24"
+    },
+    {
+      "class": "text",
+      "id": "623F192D-33DF-43A2-8C34-7AFA50FD816D"
+    },
+    {
+      "class": "text",
+      "id": "60EB0E64-443E-49CE-9CB2-C5F4401D1501"
+    },
+    {
+      "class": "text",
+      "id": "88D1EFC2-8B4C-4208-B09D-372D5AA1A3B2"
+    }
+  ],
+  "name": "A:L",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "38B95151-46A7-42F3-B6EC-101E895E72CF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

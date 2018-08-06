@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3838E9A3-0177-42D7-BD7C-AF73592A287F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2280,
+  "do_objectID": "5F00A33A-E41F-4960-8AA7-60A447F37976",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1E727F40-6331-4E3F-AC7C-EC634D79A9EC",
+    "height": 35,
+    "width": 68,
+    "x": -1465,
+    "y": 1815
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6615B206-8EFF-40D6-9287-C6A037002ABE",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "55512B21-D3E8-4539-AF23-9DA2413FEA98"
+    },
+    {
+      "class": "text",
+      "id": "EB55A6E7-5F53-47E6-BAD1-C9ED71F5F3A3"
+    }
+  ],
+  "name": "a- / buttons / big h35 / Primary / centered-label / enabled",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5387DDD2-5E1D-4C8B-9057-5F47CCD48243",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "786EF79A-CC40-486E-B394-3D345C33F969",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4BECD416-EBB7-4CDA-B5A5-411BF1756900",
+    "guides": [
+    ]
+  }
+}

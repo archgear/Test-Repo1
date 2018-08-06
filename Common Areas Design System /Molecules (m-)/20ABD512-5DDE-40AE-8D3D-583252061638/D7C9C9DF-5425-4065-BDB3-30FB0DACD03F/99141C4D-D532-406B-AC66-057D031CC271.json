@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "99141C4D-D532-406B-AC66-057D031CC271",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 83,
+    "x": 166,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Grid",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E50B123B-82A3-4099-836C-61C796BD0F82",
+      "overrideName": "A73F3EB8-DA83-4429-95E4-C52DCB8A184B_symbolID",
+      "value": "FCF20B46-CCF1-41A0-97F6-670E8C6633EC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4BDA2FD1-77CA-4A1A-A25B-AA218A8C2BF2",
+      "overrideName": "09BB1365-D424-486D-B4D0-46C8BB89275F_stringValue",
+      "value": "Grid"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3ED3AE9F-D85C-4C28-8C0C-653855DF0ABA",
+      "overrideName": "A73F3EB8-DA83-4429-95E4-C52DCB8A184B/7D1995B0-A9AB-44A5-B4EB-86B0A89B701A_symbolID",
+      "value": "6CECCC56-D1F1-42EE-9848-5BD5E00554C5"
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C3AB4D79-02E4-4118-8AC6-D3D2E85CEB6B",
+  "verticalSpacing": 0
+}

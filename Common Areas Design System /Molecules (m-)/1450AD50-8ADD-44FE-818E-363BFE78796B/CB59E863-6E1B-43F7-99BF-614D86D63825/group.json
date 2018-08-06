@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "CB59E863-6E1B-43F7-99BF-614D86D63825",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 67,
+    "width": 176,
+    "x": 528,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E73E00D2-E758-4857-A96F-74A540196A49"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B753A2FB-8F9C-46DB-BC13-0DC95B191BCE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2E0A83B9-E41A-4912-AED8-0754078E19C8"
+    },
+    {
+      "class": "group",
+      "id": "C5344AB4-59B9-4F15-A67E-B4FF494AE4F1"
+    }
+  ],
+  "name": "a- / dashboard / stats",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

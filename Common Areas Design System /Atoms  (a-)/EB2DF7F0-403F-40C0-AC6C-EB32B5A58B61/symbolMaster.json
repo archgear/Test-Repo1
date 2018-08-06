@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6DC89751-5E1C-46E5-86A5-1679D73D2925",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1017,
+  "do_objectID": "EB2DF7F0-403F-40C0-AC6C-EB32B5A58B61",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8371484D-99E4-410E-9C0D-CEAF716C96A2",
+    "height": 35,
+    "width": 68,
+    "x": -1390,
+    "y": 1906
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1DB2F017-E519-4B6E-867D-FC62978E8712",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0AA66FE1-09A6-4AF7-9C8D-85A03DBE141F"
+    },
+    {
+      "class": "text",
+      "id": "D4EBA9B9-FE62-4098-8C55-022446C69ABF"
+    }
+  ],
+  "name": "a- / buttons / big h35 / secondary inverted / centered-label / mouse over",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "23AC7C4F-AAEE-4ADA-8F90-176540C190E2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AC027E03-A10C-4B1A-AE54-A40EF1F901E2",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C77F9380-00DC-4D9D-B235-3D2CD424D81A",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 51,
+  "do_objectID": "E5730D88-FDDA-43A5-82ED-2AF80F494B2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 600,
+    "width": 400,
+    "x": 3418,
+    "y": 1315
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "47D56A13-6995-4B45-97AD-A6E82C64D01F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C685F074-E2C5-4F62-874A-D222FD7ED693"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2EF2CACE-1476-4BFC-B7DC-2EDEF5CE21C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "753FEADE-BDAB-4E31-95A2-A7823872BA6C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A4C7DF74-976B-4DD1-8178-641037A8AC46"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D8FA9E97-F213-4744-B843-E73CAC0A7301"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EB4B29F5-DA07-49CA-8A7D-6E86EACC34F4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A9FC07C3-6103-411C-B916-B9D07FB1816A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FFF98BB2-7747-46E3-86A2-3C24294FC9F1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "98A90C10-ECEC-409B-AE25-1BC72145A877"
+    }
+  ],
+  "name": "m- / Content type / Locations",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E6690DB9-D7AD-491D-8EB0-DB7104867597",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

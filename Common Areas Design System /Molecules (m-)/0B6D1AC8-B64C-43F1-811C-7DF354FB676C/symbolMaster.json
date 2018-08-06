@@ -1,0 +1,115 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 96,
+  "do_objectID": "0B6D1AC8-B64C-43F1-811C-7DF354FB676C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 166,
+    "width": 281,
+    "x": -1489,
+    "y": 2226
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F3716331-AFEC-41A3-9B16-3715E1C67F7C"
+    },
+    {
+      "class": "text",
+      "id": "51C3CFF0-28B3-4790-B4F1-DEA41A94C2AE"
+    },
+    {
+      "class": "text",
+      "id": "075A8526-5CB1-491D-8345-B045EE5AE5CE"
+    },
+    {
+      "class": "text",
+      "id": "893B46A5-2B17-4AAA-BF42-88364FAF2861"
+    },
+    {
+      "class": "text",
+      "id": "8458E892-E980-4D18-BE18-C169F9CECD5D"
+    },
+    {
+      "class": "text",
+      "id": "E26A7642-42A5-400A-9989-0BA7FBDBA89E"
+    },
+    {
+      "class": "text",
+      "id": "F875AD20-D102-47FA-9985-A2C6178DC562"
+    },
+    {
+      "class": "text",
+      "id": "A86FF5DD-F61C-475B-8BAE-7A2BAAC1F1CD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8F486C59-B005-406D-9297-A8CFC6900B16"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DA69E4C2-0B82-4E94-87D6-1ADE1AE7BCF0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "38F5C3B7-FEFB-433C-8D80-BA8DBFCF513E"
+    }
+  ],
+  "name": "m- / Action Item map card",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8927BAC4-45AF-4CCC-A5E5-ADDAF63CE6DE",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

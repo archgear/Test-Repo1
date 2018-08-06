@@ -1,0 +1,111 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 184,
+  "do_objectID": "0E349741-6BAE-4BD3-903D-842FF89C9023",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 295,
+    "x": 5545,
+    "y": 1860
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "659DFAD2-ABCE-4DE4-8B9C-5C687241B458"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F376C81C-0A1C-41EA-A8E6-A84E7B2D7E04"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FE6550C3-E409-4255-B796-CF782F9DB74F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF8B0350-AFD3-4599-90E5-4FE48BD0EEA2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A565DBF2-BC94-4E88-9C8A-932C9D17B94F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "689C4B90-6638-4A40-B376-F5343004676D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7E897AE3-ADD0-40EB-A720-647EBA89B1CB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA654563-3462-4C54-B6FF-F22B0D8129C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EDD4F6A3-441F-4B74-8392-6221B11A7A4F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7F3C9ED9-374F-4EAC-8092-64DC33515F5C"
+    }
+  ],
+  "name": "a- / Paginator / 1-100",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "62488B2C-1FA9-46AA-A1BA-13DE26605257",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

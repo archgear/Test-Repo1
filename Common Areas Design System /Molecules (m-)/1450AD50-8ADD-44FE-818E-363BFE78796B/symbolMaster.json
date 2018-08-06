@@ -1,0 +1,91 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 6,
+  "do_objectID": "1450AD50-8ADD-44FE-818E-363BFE78796B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 67,
+    "width": 880,
+    "x": -571,
+    "y": 2226
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DADE9C3F-C11D-4F2F-8320-F86530CA09A5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A3252EE-901F-4952-B23F-A92CC8BA0BCE"
+    },
+    {
+      "class": "group",
+      "id": "70A0A78A-B77C-4A69-BF75-FED94C820494"
+    },
+    {
+      "class": "group",
+      "id": "CB59E863-6E1B-43F7-99BF-614D86D63825"
+    },
+    {
+      "class": "group",
+      "id": "BA221E7E-4317-49B5-93D6-0F6A8160171F"
+    }
+  ],
+  "name": "m- / dashboard / stats",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "457CBB2B-D4B0-404C-BAF0-F7C11E5269C8",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

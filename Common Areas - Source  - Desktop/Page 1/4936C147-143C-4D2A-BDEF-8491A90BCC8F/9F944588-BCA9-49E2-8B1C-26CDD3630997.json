@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "9F944588-BCA9-49E2-8B1C-26CDD3630997",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 74,
+    "width": 242,
+    "x": 684,
+    "y": 369
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "a- / inputs / small / enable",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4BE0D375-8141-47DB-BA6D-B643BF22813C",
+      "overrideName": "34EA7BDD-8A6D-497B-A5FD-1B195377D15A/791E3B4A-9BE6-4778-A8BD-FE336F3DEF99_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "784DC06A-B320-40A6-80F2-043B2ACC0854",
+      "overrideName": "34EA7BDD-8A6D-497B-A5FD-1B195377D15A/64AB93CC-EC9C-4008-ACC7-7375D02052A2_stringValue",
+      "value": "Joseph Rogue"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "394C498B-0DDC-4EF5-8719-3C77CE0559FA",
+      "overrideName": "80683E8F-FE10-428E-813A-56852CCE84E8_stringValue",
+      "value": "Assigned To*"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "90228D66-1CA2-4A72-B57F-243A50EC6F97",
+  "verticalSpacing": 0
+}

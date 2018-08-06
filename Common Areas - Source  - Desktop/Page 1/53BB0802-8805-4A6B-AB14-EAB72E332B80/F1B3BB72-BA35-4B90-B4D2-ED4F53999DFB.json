@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "F1B3BB72-BA35-4B90-B4D2-ED4F53999DFB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 600,
+    "width": 400,
+    "x": 0,
+    "y": 104
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "m- / Content type / Contacts",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D5E9BFAC-16A9-4115-BB2E-4AD5CF4BA184/D7B52D07-1199-4EA7-9987-9D52861897AC_stringValue",
+      "value": "Buenos Aires"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D5E9BFAC-16A9-4115-BB2E-4AD5CF4BA184/CB5B318F-6450-48D1-9113-6056F9151544_stringValue",
+      "value": "Active Action Item"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7B595CC7-E582-4481-AA3D-9353BB7D8E60",
+  "verticalSpacing": 0
+}

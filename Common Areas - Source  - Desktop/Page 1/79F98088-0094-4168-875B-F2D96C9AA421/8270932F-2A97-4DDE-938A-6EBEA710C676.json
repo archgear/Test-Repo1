@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "8270932F-2A97-4DDE-938A-6EBEA710C676",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2955CC80-2C5B-4238-9F55-AFCB1A1F0CD5",
+    "height": 166,
+    "width": 281,
+    "x": 537,
+    "y": 401
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "m- / Action Item map card",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "79CD7769-838C-4D9C-A54B-D0264864D96C",
+      "overrideName": "51C3CFF0-28B3-4790-B4F1-DEA41A94C2AE_stringValue",
+      "value": "Paint the wall"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7B17CF54-33BA-4895-9F91-114958B5852D",
+      "overrideName": "8458E892-E980-4D18-BE18-C169F9CECD5D_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3EDE533D-C6E6-4390-9E14-206F31E3D7F0",
+      "overrideName": "A86FF5DD-F61C-475B-8BAE-7A2BAAC1F1CD_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "322FBD87-D203-40DE-B427-B81AFFDCD111",
+      "overrideName": "075A8526-5CB1-491D-8345-B045EE5AE5CE_stringValue",
+      "value": "Coordinator: "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CBEFFDDE-E406-43AC-B124-B92307D17AC8",
+      "overrideName": "893B46A5-2B17-4AAA-BF42-88364FAF2861_stringValue",
+      "value": "Assignee: "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5470B7D2-09E0-489B-B139-7250FD385667",
+      "overrideName": "F875AD20-D102-47FA-9985-A2C6178DC562_stringValue",
+      "value": "Joey Bormer"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "59AF4F6C-2A25-4E7E-8CB3-712C91ADC383",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "59A97C77-CA39-4AF3-B0D6-9020DB370CA4",
+  "verticalSpacing": 0
+}

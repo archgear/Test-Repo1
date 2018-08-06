@@ -1,0 +1,112 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "89A9DF35-1983-4186-BF27-516669FF8FCB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 600,
+    "width": 960,
+    "x": 16473,
+    "y": -31
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DF83E333-C000-44C3-858F-3125B9C38560"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2183E63D-F7F2-4578-86A5-51835AF1DBA4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E674532F-4E11-4B93-9329-BEAA911EAA5D"
+    },
+    {
+      "class": "group",
+      "id": "6D1EAF55-18C8-4CC8-B50E-56D2E5120379"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D8DE530-0E30-4A3D-AF98-30CDF64E58E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "77C47242-BF3D-4843-A1CB-5F97299C7287"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "73006E98-E6F5-4838-85E0-2C141F0D854F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E66AB1A-B1FC-4320-AF9B-A2C1E0CF2D83"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9206D95D-DAA7-4DF1-ADE8-82668B305DEF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E83BFF84-E2DB-400A-BC6E-2B60902A74EB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0CBDAD3C-8333-45A7-83ED-4E27967F19A6"
+    }
+  ],
+  "name": "Action Item / Contributors",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

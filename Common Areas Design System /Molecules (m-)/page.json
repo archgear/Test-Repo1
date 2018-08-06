@@ -1,0 +1,206 @@
+{
+  "_class": "page",
+  "booleanOperation": 0,
+  "do_objectID": "1C0BC984-90E0-4B7E-95D9-CB84BE3BD7DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -489,
+    "guides": [
+      -600,
+      6024
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "341080B0-0CA4-4EB3-956F-D0DC8D991247"
+    },
+    {
+      "class": "text",
+      "id": "3780C6DB-A537-466E-92DA-EAD5EB11C95E"
+    },
+    {
+      "class": "text",
+      "id": "A13E64F1-004A-4981-A32F-FBB365F60D35"
+    },
+    {
+      "class": "text",
+      "id": "A43A1A73-1D08-48C9-9C68-DD9023562271"
+    },
+    {
+      "class": "text",
+      "id": "61F477D6-BAFF-43A6-A741-73F6CDF5EE10"
+    },
+    {
+      "class": "text",
+      "id": "2C5605F6-0315-47A4-BD66-4622B6D3F28A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "86B53559-749F-420E-91FA-5A36542CB185"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9AC71D93-75FB-4E55-BACF-7DC556351F90"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "32D910EC-785B-49B6-9BC3-2C7DAACB188E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "81C99DDE-2F9F-49D7-90EF-DDC624E61C08"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "20ABD512-5DDE-40AE-8D3D-583252061638"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0993F3B6-7C80-43EE-9164-BD68E0CCC6E4"
+    },
+    {
+      "class": "text",
+      "id": "60D99112-C952-48E3-9D2A-0EBC884A2347"
+    },
+    {
+      "class": "text",
+      "id": "31E375FF-4D54-48F8-B670-02CD0E0D60B1"
+    },
+    {
+      "class": "text",
+      "id": "AFC66AFA-BD94-4BC4-B757-57F1A33906B4"
+    },
+    {
+      "class": "text",
+      "id": "86242B99-FBB2-4472-B0A0-59EC684FB9FC"
+    },
+    {
+      "class": "text",
+      "id": "A5AE6A43-A8AD-413D-BE56-C633FC56D951"
+    },
+    {
+      "class": "text",
+      "id": "04CA24F1-08FB-4D8D-82FB-C019670C2437"
+    },
+    {
+      "class": "text",
+      "id": "B0275756-E7F0-4E17-85EC-CC60B1431959"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1C304FEC-8CEE-4E51-9257-59F0E3F42584"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "318FCD4A-82EA-4217-BEC0-93A8A7FAD6D7"
+    },
+    {
+      "class": "text",
+      "id": "708DB8F9-2985-495A-BDBE-05482710AE53"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "89C4BB41-652D-4CD1-841C-BEA9B30181EC"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2FB0B783-3C59-4FA5-A653-ED23E676ED13"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8F3739BF-FCA3-4CFB-81B6-9C0C163AD2AA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E098E349-26D2-44A9-995D-BEE2F03D0B55"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "57659049-8047-426D-8811-364B5AC6FA4C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E5730D88-FDDA-43A5-82ED-2AF80F494B2B"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0B6D1AC8-B64C-43F1-811C-7DF354FB676C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8912246D-1B8E-4DB6-9E81-F296CDC94FF9"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "CBB9E4D7-7DBC-45A7-9D93-F4F704E09262"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "96A823BF-BDEF-4436-897B-6AE1EE8C343A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1450AD50-8ADD-44FE-818E-363BFE78796B"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4910BDDE-1F17-4822-A952-1344A416F3B5"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8C77E3DD-9C8E-4A3C-8576-F0E684B55B1C"
+    }
+  ],
+  "name": "Molecules (m-)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.betterthantomorrow.sketch.distributor": {
+      "distributorCenterSpacing": 0,
+      "distributorDimension": 1,
+      "distributorSpacing": "3"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -400,
+    "guides": [
+    ]
+  }
+}

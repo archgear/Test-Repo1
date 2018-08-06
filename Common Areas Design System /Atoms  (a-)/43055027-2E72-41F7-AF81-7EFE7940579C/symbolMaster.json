@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5D03FE16-4AEA-48EC-A845-06D77D579205",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1847,
+  "do_objectID": "43055027-2E72-41F7-AF81-7EFE7940579C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1E621400-4564-4F32-955A-E0F9DFC1FFB8",
+    "height": 35,
+    "width": 68,
+    "x": -1303,
+    "y": 1815
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EF1267CF-52CA-4C07-A8AB-DEB230C4E731",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CF924D77-A14A-41DB-9D9A-D52B59517C25"
+    },
+    {
+      "class": "text",
+      "id": "051AC0C6-E58F-4A64-9A7C-4A2ECEB4F18A"
+    }
+  ],
+  "name": "a- / buttons / big h35 / Primary / centered-label / click",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F276BC07-ACDA-4BCE-A6A9-6D8C10E2A3E8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "48B8530B-4ACD-4704-81F5-166AC9141B2A",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "54899102-D430-45EE-90A2-F22CBDE15675",
+    "guides": [
+    ]
+  }
+}

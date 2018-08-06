@@ -1,0 +1,111 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 722,
+  "do_objectID": "017AB4F4-3D99-4390-B8DD-EF06576F0F62",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 686,
+    "width": 415,
+    "x": 2616,
+    "y": 1778
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "36F08C80-E330-42CB-84A0-8271DD6ED0D0"
+    },
+    {
+      "class": "group",
+      "id": "C7914F70-A3F3-478E-9328-6833075BCB19"
+    },
+    {
+      "class": "group",
+      "id": "88223867-8706-4661-A0F8-ADB29F4E98B8"
+    },
+    {
+      "class": "group",
+      "id": "9B5BAB02-1B3B-4690-AB18-7F74F976FB4A"
+    },
+    {
+      "class": "group",
+      "id": "70CA8C81-D810-4FE0-B611-D6B56E53D49D"
+    },
+    {
+      "class": "group",
+      "id": "850F2410-78A9-4324-B9F7-DB37767A2918"
+    },
+    {
+      "class": "group",
+      "id": "4E7FEAB7-7F80-4A4A-8CE1-E53BB8536D4A"
+    },
+    {
+      "class": "group",
+      "id": "2FCD8A41-A3F5-4AE3-974F-20C4F9CC832C"
+    },
+    {
+      "class": "group",
+      "id": "DAE25ECA-5B1D-4F9A-B78D-00C98BB5B7A1"
+    },
+    {
+      "class": "text",
+      "id": "B1C75742-8BF7-41E4-BF2F-B250E06505B9"
+    }
+  ],
+  "name": "a- / Table / Coloumn with label",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F4A897B8-7CC9-403A-AACD-3AFC13867330",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

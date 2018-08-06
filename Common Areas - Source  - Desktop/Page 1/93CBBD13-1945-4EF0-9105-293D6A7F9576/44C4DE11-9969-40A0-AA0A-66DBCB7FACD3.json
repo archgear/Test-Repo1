@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "44C4DE11-9969-40A0-AA0A-66DBCB7FACD3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 74,
+    "width": 232,
+    "x": 424,
+    "y": 697
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "a- / inputs / small / active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7A2B0BBC-E7F4-49A9-B032-79E421FF8C0D_stringValue",
+      "value": "Address 1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B5A202A5-20D7-427F-AFDF-5B41507DE153/64AB93CC-EC9C-4008-ACC7-7375D02052A2_stringValue",
+      "value": "11 Cloverfield Lane"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "75F01B40-22C3-4E3C-9AF6-1EA288A43E29",
+      "overrideName": "B5A202A5-20D7-427F-AFDF-5B41507DE153/6508FD31-5D0D-442D-83D0-4E504A80688C_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "500AE07B-3B1F-4CDA-BE22-BDE43F8CE4D5",
+      "overrideName": "9C202F8B-25C5-44FB-B541-F66B193B500A_stringValue",
+      "value": "Address 1"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4E95CD91-F319-4144-ADDC-2E8461E7E317",
+  "verticalSpacing": 0
+}

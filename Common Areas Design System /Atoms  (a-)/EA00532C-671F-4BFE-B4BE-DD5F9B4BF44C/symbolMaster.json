@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "9BF6AB7F-4B55-40AC-846B-82D031E09385",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 764,
+  "do_objectID": "EA00532C-671F-4BFE-B4BE-DD5F9B4BF44C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E9CA0CB6-E856-426E-A898-BA7871E36BDF",
+    "height": 24,
+    "width": 73,
+    "x": 9850,
+    "y": 1857
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D8F8AFC1-E53F-4287-AF00-37395E99B14D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9539CBF0-DC05-4C3E-A0B7-A6F2BD5EA7E4"
+    },
+    {
+      "class": "text",
+      "id": "8CA18F5C-E1AE-4EF3-8CBC-1656AA0E8110"
+    }
+  ],
+  "name": "a- / radio/labeled/off",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "044F6779-A22A-401E-A38C-CD943ABC21DF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AD73BECC-4319-43F6-A0F3-3990C12D4089",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A43B8C62-293D-4C1E-80A8-E046610E0397",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "403CFF72-D84D-45D6-8CB6-4F7F80DC57C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "58115F42-78AD-41CC-B726-7F7E431CEF31",
+    "height": 665,
+    "width": 439,
+    "x": 1404,
+    "y": 145
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "5E085B00-1E3D-43A4-BAC1-8D9632FFDD2E"
+    },
+    {
+      "class": "text",
+      "id": "BF195AE1-560E-4EF1-B6AD-7D96375D8937"
+    },
+    {
+      "class": "text",
+      "id": "B6BA69EE-308E-4024-A705-A95930037BD7"
+    },
+    {
+      "class": "text",
+      "id": "2E7CD249-1195-484C-8763-41CC0738C7B3"
+    },
+    {
+      "class": "text",
+      "id": "3B1C93D3-A1BA-449B-8765-BAAF7157E1D0"
+    },
+    {
+      "class": "text",
+      "id": "0EA9CBBF-BB93-4867-865D-E148C4F9D97D"
+    },
+    {
+      "class": "text",
+      "id": "1C65C2E4-FA4A-4929-A356-30CAFD72A6A5"
+    },
+    {
+      "class": "text",
+      "id": "665C88C2-A6DE-4596-9C31-878BD94A1569"
+    },
+    {
+      "class": "text",
+      "id": "A6261BA1-2872-4C9F-938D-DA9AEE0D7464"
+    },
+    {
+      "class": "text",
+      "id": "053FDE7A-EBD5-4C2B-BC48-260DF71C294D"
+    },
+    {
+      "class": "text",
+      "id": "C6C7DB2F-F9F7-4EC6-B7A0-2114008A0E7E"
+    },
+    {
+      "class": "text",
+      "id": "6BC9E296-7266-4800-A683-AB4EE962D669"
+    }
+  ],
+  "name": "A:R",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A73EB52C-0B47-446A-AC54-9B2996A966B3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

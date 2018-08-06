@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.8470716411564626,
+    "green": 0.8470716411564626,
+    "red": 0.8470716411564626
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1842,
+  "do_objectID": "F547A06B-E427-4E22-8C9D-BADB6553439D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "81DCF241-AC4D-49E9-BBBF-5C9C051F8F19",
+    "height": 35,
+    "width": 68,
+    "x": -1312,
+    "y": 1975
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "30365B1F-EE5A-4060-9461-FC5C85AB11DC",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "246E1894-1817-4C0C-BAE5-2FBA4AC90B69"
+    },
+    {
+      "class": "text",
+      "id": "EF23CDC0-709C-474A-A722-1EBC00A6BA3D"
+    }
+  ],
+  "name": "a- / buttons / big h35 /  secondary / centered-label / click",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DBF34B18-3001-433C-B38D-610A3B6D6736",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1A92B16A-C01F-4E64-8F51-08B6B7B02CE1",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "62EE7EE4-FEBA-4CC8-9826-038BCDC7E813",
+    "guides": [
+    ]
+  }
+}

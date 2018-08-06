@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "1AF00982-2558-47CB-816E-6ED36E9959EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 104,
+    "width": 960,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "o- / Top Bar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC51E2A0-15D7-4222-9966-CAA12403B03D",
+      "overrideName": "846C2D81-F525-43F6-9611-85CD82F0D21A/7C418788-59BC-469C-B828-BD13AD30B2F6/80988D34-1004-4DFD-B8C9-8BCDC60D0AA1_symbolID",
+      "value": "B753CBA9-396F-46A6-8088-2F0895D7A8D1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "98A06217-CF52-4297-8047-062CDBCCF855",
+      "overrideName": "846C2D81-F525-43F6-9611-85CD82F0D21A/7C418788-59BC-469C-B828-BD13AD30B2F6/49E4F97D-64F9-4A67-9377-48B15549EA50_stringValue",
+      "value": "Contacts"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7EC589BE-6FEA-4C13-926A-0B08F74429BE",
+  "verticalSpacing": 0
+}

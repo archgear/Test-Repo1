@@ -1,0 +1,96 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "79F98088-0094-4168-875B-F2D96C9AA421",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 600,
+    "width": 960,
+    "x": 9077,
+    "y": 37
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F2EA6757-0B1E-411B-B905-9EB9DBC214C6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D5C916BE-E577-4164-8A67-C7FD468BAC21"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A5BADDB2-2AA1-42EB-8C43-82983EE572B0"
+    },
+    {
+      "class": "group",
+      "id": "A4AE6197-ACA1-47AD-A1E2-E248BA5AA92D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D663753-B59A-47DC-8AB0-11ACB45FA4A8"
+    },
+    {
+      "class": "group",
+      "id": "4F280E97-2539-4D6A-A88B-51A7880169FA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8270932F-2A97-4DDE-938A-6EBEA710C676"
+    }
+  ],
+  "name": "Contacts / Map",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

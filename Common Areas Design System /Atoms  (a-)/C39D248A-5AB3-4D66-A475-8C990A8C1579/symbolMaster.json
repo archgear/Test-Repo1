@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "860A4AA7-D278-4688-83E2-4EDDB2CAF8C5",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1186,
+  "do_objectID": "C39D248A-5AB3-4D66-A475-8C990A8C1579",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "09DEA909-12C6-4B50-B7B7-1EF15C1F705E",
+    "height": 30,
+    "width": 80,
+    "x": -1195,
+    "y": 2145
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1D448F4A-9ABB-4841-902F-A436DE0BD417",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "41F7E8D2-507C-44BB-B90A-E6035809C6FB"
+    },
+    {
+      "class": "text",
+      "id": "0C791496-A450-454F-AA63-E4640C6C9441"
+    }
+  ],
+  "name": "a- / buttons / medium h30 / tetriary / centered-label / disabled",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "757C2714-1A20-4D97-B023-D71DD6737C6F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BB4ACB20-1786-4C7B-BD74-AAA50C3169D0",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "141C08D4-8C02-4C5B-B3E2-1302D656745A",
+    "guides": [
+    ]
+  }
+}

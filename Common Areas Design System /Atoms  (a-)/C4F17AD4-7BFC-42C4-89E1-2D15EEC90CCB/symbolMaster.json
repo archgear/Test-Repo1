@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "DFA9A44C-A357-4BF8-9207-956412CFB7A7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 739,
+  "do_objectID": "C4F17AD4-7BFC-42C4-89E1-2D15EEC90CCB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A8CED7FD-A063-478B-9EEC-BDB70FBFFC88",
+    "height": 64,
+    "width": 64,
+    "x": 16,
+    "y": 748
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3C449A9B-233D-48CC-8B57-6C2B4CED89FB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "862E3012-7937-4F40-8BE0-F1153926ED87"
+    },
+    {
+      "class": "group",
+      "id": "4A8CA783-BFFB-4407-8ED4-2B0324A914BF"
+    }
+  ],
+  "name": "zzz Constructors / buttons / h64/no-label",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE147FF1-CC13-4A4B-8714-D3581D934AAF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "766A435C-5190-4308-8BBB-C19ED8252F89",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BCC8EC8E-D013-4510-8D3A-75FEFF237CDB",
+    "guides": [
+    ]
+  }
+}

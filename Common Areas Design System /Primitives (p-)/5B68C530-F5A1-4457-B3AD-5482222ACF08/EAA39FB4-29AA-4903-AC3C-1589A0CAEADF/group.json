@@ -1,0 +1,94 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "EAA39FB4-29AA-4903-AC3C-1589A0CAEADF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CD592784-1AC2-4E61-9F8A-22E88CF3CC36",
+    "height": 665,
+    "width": 439,
+    "x": 726,
+    "y": 145
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "319233A7-EAB4-416A-8F92-2AC54A369EC3"
+    },
+    {
+      "class": "text",
+      "id": "08AEEB7C-83FC-4DEC-9C24-397F9114EBD5"
+    },
+    {
+      "class": "text",
+      "id": "F7061A2E-2B9A-4A2E-BEE8-E559D126E226"
+    },
+    {
+      "class": "text",
+      "id": "0CB60F69-11B7-4977-AF56-1BE0D0814EE6"
+    },
+    {
+      "class": "text",
+      "id": "66608A4E-E757-4D6F-B8CE-518C453B1690"
+    },
+    {
+      "class": "text",
+      "id": "DB6D4847-2646-41D2-A15C-47D778CC7B60"
+    },
+    {
+      "class": "text",
+      "id": "3B68C103-0F8B-4E06-9AF7-EA5A484593E9"
+    },
+    {
+      "class": "text",
+      "id": "53192CEF-6CD8-4D5D-938B-3C942D2A29A7"
+    },
+    {
+      "class": "text",
+      "id": "F90882CD-4C28-4307-A942-1755575B314D"
+    },
+    {
+      "class": "text",
+      "id": "65017E2E-B670-4C54-9757-55F38C0C8D30"
+    },
+    {
+      "class": "text",
+      "id": "8267195F-87C0-4837-A76C-4BF3895B51AE"
+    },
+    {
+      "class": "text",
+      "id": "C4627F36-EA79-4153-9638-443C19B8B0D1"
+    }
+  ],
+  "name": "A:C",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "15E2D255-C750-4273-B8B4-0C8B56876451",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

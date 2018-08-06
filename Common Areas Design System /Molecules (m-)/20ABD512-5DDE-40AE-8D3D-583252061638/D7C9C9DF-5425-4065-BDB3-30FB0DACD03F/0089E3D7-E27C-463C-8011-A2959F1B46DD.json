@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "0089E3D7-E27C-463C-8011-A2959F1B46DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 83,
+    "x": 83,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Map",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D45DE2CD-71E9-47B9-9108-96810FAD0AE6",
+      "overrideName": "62093D64-43B4-42E1-8888-5F8B15B942CE_symbolID",
+      "value": "EE14FF3B-0A2D-467C-8668-F3B2E83A0FB6"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7140355F-F870-49CC-9387-130229E903AA",
+      "overrideName": "E291D4C4-DF8B-448C-A8CD-6848587015D8_stringValue",
+      "value": "Map"
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2AC137CF-45B0-4AC9-A6E2-FD825D45899C",
+  "verticalSpacing": 0
+}
